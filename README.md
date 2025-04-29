@@ -1,7 +1,8 @@
-## Hi there 👋Here are some ideas to get you started:
+## Hi there 👋
 
 
 - 🌱 I’m currently learning in cse(aiml)
+  
 - I'm looking for an intership program
 
   - 📫 How to reach me: atharvkoli47@gmail.com
