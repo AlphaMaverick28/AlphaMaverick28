@@ -1,7 +1,8 @@
 ## Hi there 👋Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning in cse(aiml) 
+- 🌱 I’m currently learning in cse(aiml)
+- I'm looking for an intership program
 
   - 📫 How to reach me: atharvkoli47@gmail.com
 
@@ -20,4 +21,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AlphaMaverick28&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlphaMaverick28&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  align="center"/>
+
