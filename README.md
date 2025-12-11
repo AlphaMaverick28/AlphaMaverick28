@@ -1,12 +1,10 @@
 ## Hi there 👋
 
 
-- 🌱 I’m currently learning in cse(aiml)
-  
-- I'm looking for an intership program
-
-  - 📫 How to reach me: atharvkoli47@gmail.com
-
+Artificial Intelligence & Machine Learning Student 🎓 |
+Developing backend & ML pipelines 💻 |
+Skilled in Java, Spring, Python | 
+Interested in real-world AI applications 🌐
 
 
 ## 🌐 Socials:
